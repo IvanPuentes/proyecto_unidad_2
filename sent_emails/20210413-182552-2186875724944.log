@@ -1,0 +1,25 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Subject: Password reset on 127.0.0.1:8000
+From: webmaster@localhost
+To: ivan_andi@hotmail.com
+Date: Tue, 13 Apr 2021 23:25:52 -0000
+Message-ID: <161835635262.12672.8369382190638472688@LAPTOP-DEI975H0>
+
+
+You're receiving this email because you requested a password reset for your user account at 127.0.0.1:8000.
+
+Please go to the following page and choose a new password:
+
+http://127.0.0.1:8000/usuarios/reset/Nw/al2374-f131afea49d1734b56fc8061f039394a/
+
+Your username, in case you’ve forgotten: Andres_25
+
+Thanks for using our site!
+
+The 127.0.0.1:8000 team
+
+
+
+-------------------------------------------------------------------------------
